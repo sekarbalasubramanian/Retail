@@ -13,7 +13,7 @@ import org.testng.annotations.Test;
 import io.github.bonigarcia.wdm.WebDriverManager;
 
 public class Sample1 {
-
+    //comments added
 	public WebDriver  driver; 
 
 	@BeforeTest
